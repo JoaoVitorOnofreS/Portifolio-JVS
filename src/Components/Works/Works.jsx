@@ -1,5 +1,5 @@
 import "./Works.scss";
-import { skills } from "../data";
+
 import { useState } from "react";
 
 export default function Works() {

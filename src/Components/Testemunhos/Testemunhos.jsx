@@ -1,6 +1,4 @@
-import { colors } from "@material-ui/core";
 import "./Testemunhos.scss";
-import { medias } from "../data";
 
 export default function Testemunhos() {
   const medias = [
@@ -30,7 +28,7 @@ export default function Testemunhos() {
         {medias.map((d) => (
           <div className="card">
             <div className="top">
-              <a href={d.link} target="_blank">
+              <a href={d.link} rel="noopener">
                 <img src={d.img} alt="" className="imagem" />
               </a>
             </div>
