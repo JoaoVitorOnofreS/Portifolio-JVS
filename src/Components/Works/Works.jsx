@@ -28,7 +28,7 @@ export default function Works() {
       id: 4,
       title: "FLUTTER",
       img: "assets/images/flutter.png",
-      desc: "Utilizo esse ferramenta para realizar projetos em despositivos móveis, ulltimamente aprendendo essa maravilhosa tecnologia que quero explorar mais e mais.",
+      desc: "Utilizo esse ferramenta para realizar projetos em dispositivos móveis, ultimamente aprendendo essa maravilhosa tecnologia que quero explorar mais.",
     },
     {
       id: 5,
@@ -46,7 +46,7 @@ export default function Works() {
       id: 7,
       title: "SQL",
       img: "assets/images/sql.png",
-      desc: "Utilizo o sql para a estruturação do banco de dados e controle de entrada e armazenamento de dados em uma aplicação.",
+      desc: "Utilizo o sql para a estruturação do banco de dados e controle de entrada  e armazenamento de dados em uma aplicação.",
     },
   ];
 
