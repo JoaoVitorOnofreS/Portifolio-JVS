@@ -62,16 +62,16 @@
         img {
           height: 50px;
           &.hover {
-            background-color: orange;
+            background-color: #311f63;
           }
           .imagem:hover {
-            background-color: orange;
+            background-color: #311f63;
             opacity: 0.5;
           }
         }
       }
       .a {
-        color: orange;
+        color: #311f63;
       }
     }
   }

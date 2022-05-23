@@ -6,7 +6,7 @@ export default function Testemunhos() {
       id: 1,
       img: "assets/images/github.png",
       desc: "Me siga no Github",
-      link: "https://github.com/joaovitoronofre",
+      link: "https://github.com/JoaoVitorOnofreS",
     },
     {
       id: 2,
